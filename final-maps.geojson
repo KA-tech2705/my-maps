@@ -1,0 +1,701 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.514394,
+                    -7.362015,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "terminal tingkir kota salatiga",
+                "styleUrl": "#icon-1532-F57C00-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f57c00",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-symbol": "bus",
+                "marker-color": "rgba(255, 110, 0, 1)",
+                "marker-size": "large"
+            },
+            "bbox": [
+                110.514394,
+                -7.362015,
+                110.514394,
+                -7.362015
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.433711,
+                    -7.245126,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Terminal Bawen",
+                "styleUrl": "#icon-1532-F57C00-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#f57c00",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#ff6e00",
+                "marker-size": "large",
+                "marker-symbol": "bus"
+            },
+            "bbox": [
+                110.433711,
+                -7.245126,
+                110.433711,
+                -7.245126
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.74947,
+                    -7.51256,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bandara Adi Soemarmo",
+                "styleUrl": "#icon-1504-0288D1-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#0288d1",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#00deff",
+                "marker-size": "large",
+                "marker-symbol": "airport"
+            },
+            "bbox": [
+                110.74947,
+                -7.51256,
+                110.74947,
+                -7.51256
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.375008,
+                    -6.966126,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bandar Udara Jenderal Ahmad Yani",
+                "styleUrl": "#icon-1504-0288D1-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#0288d1",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#00deff",
+                "marker-size": "large",
+                "marker-symbol": "airport"
+            },
+            "bbox": [
+                110.375008,
+                -6.966126,
+                110.375008,
+                -6.966126
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.428692,
+                    -6.964422,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stasiun Tawang Semarang",
+                "styleUrl": "#icon-1716-A52714-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#a52714",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "rgba(214, 0, 0, 1)",
+                "marker-size": "large",
+                "marker-symbol": "rail"
+            },
+            "bbox": [
+                110.428692,
+                -6.964422,
+                110.428692,
+                -6.964422
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.414647,
+                    -6.972871,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stasiun Poncol Semarang",
+                "styleUrl": "#icon-1716-A52714-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#a52714",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#d60000",
+                "marker-size": "large",
+                "marker-symbol": "rail"
+            },
+            "bbox": [
+                110.414647,
+                -6.972871,
+                110.414647,
+                -6.972871
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.839451,
+                    -7.562109,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stasiun Solo Jebres",
+                "styleUrl": "#icon-1716-A52714-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#a52714",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#d60000",
+                "marker-size": "large",
+                "marker-symbol": "rail"
+            },
+            "bbox": [
+                110.839451,
+                -7.562109,
+                110.839451,
+                -7.562109
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.821379,
+                    -7.557013,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Solo Balapan",
+                "styleUrl": "#icon-1716-A52714-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#a52714",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#d60000",
+                "marker-size": "large",
+                "marker-symbol": "rail"
+            },
+            "bbox": [
+                110.821379,
+                -7.557013,
+                110.821379,
+                -7.557013
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.498752,
+                    -7.329813,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Masjid Agung Darul Amal Kota Salatiga",
+                "styleUrl": "#icon-1671-FFEA00-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#ffea00",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#00af0c",
+                "marker-size": "large",
+                "marker-symbol": "religious-muslim"
+            },
+            "bbox": [
+                110.498752,
+                -7.329813,
+                110.498752,
+                -7.329813
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.501555,
+                    -7.322219,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gereja Katolik Paroki Santo Paulus Miki, Salatiga",
+                "styleUrl": "#icon-1671-FFEA00-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#ffea00",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#00af0c",
+                "marker-size": "large",
+                "marker-symbol": "religious-christian"
+            },
+            "bbox": [
+                110.501555,
+                -7.322219,
+                110.501555,
+                -7.322219
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.498213,
+                    -7.320556,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gereja Kristen Jawa (GKJ) Salatiga",
+                "styleUrl": "#icon-1671-FFEA00-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#ffea00",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#00af0c",
+                "marker-size": "large",
+                "marker-symbol": "religious-christian"
+            },
+            "bbox": [
+                110.498213,
+                -7.320556,
+                110.498213,
+                -7.320556
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.487283,
+                    -7.352438,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pura Adhya Dharma Salatiga ᬧᬸᬭᬵᬥ᭄ᬬᬥᬃᬫᬲᬮᬢᬶᬕ᭟",
+                "styleUrl": "#icon-1671-FFEA00-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#ffea00",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#00af0c",
+                "marker-size": "large",
+                "marker-symbol": "religious-buddhist"
+            },
+            "bbox": [
+                110.487283,
+                -7.352438,
+                110.487283,
+                -7.352438
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4981,
+                    -7.356109,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "STI Vihāra Maggadhamma",
+                "styleUrl": "#icon-1671-FFEA00-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#ffea00",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#00af0c",
+                "marker-size": "large",
+                "marker-symbol": "religious-buddhist"
+            },
+            "bbox": [
+                110.4981,
+                -7.356109,
+                110.4981,
+                -7.356109
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.504313,
+                    -7.331666,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kelenteng TITD Hok Tek Bio",
+                "styleUrl": "#icon-1671-FFEA00-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#ffea00",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#00af0c",
+                "marker-size": "large",
+                "marker-symbol": "religious-buddhist"
+            },
+            "bbox": [
+                110.504313,
+                -7.331666,
+                110.504313,
+                -7.331666
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.496366,
+                    -7.327692,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "RSUD Kota Salatiga - Ruang Operasi",
+                "styleUrl": "#icon-1624-0F9D58-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#0f9d58",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#1849ea",
+                "marker-size": "large",
+                "marker-symbol": "hospital"
+            },
+            "bbox": [
+                110.496366,
+                -7.327692,
+                110.496366,
+                -7.327692
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.508194,
+                    -7.338614,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rumah Sakit Puri Asih Salatiga",
+                "styleUrl": "#icon-1624-0F9D58-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#0f9d58",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#1849ea",
+                "marker-size": "large",
+                "marker-symbol": "hospital"
+            },
+            "bbox": [
+                110.508194,
+                -7.338614,
+                110.508194,
+                -7.338614
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.513498,
+                    -7.362715,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "RSI Tunas Harapan Salatiga",
+                "styleUrl": "#icon-1624-0F9D58-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#0f9d58",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#1849ae",
+                "marker-size": "large",
+                "marker-symbol": "hospital"
+            },
+            "bbox": [
+                110.513498,
+                -7.362715,
+                110.513498,
+                -7.362715
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.489086,
+                    -7.349658,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rumah Sakit Paru Dr. Ario Wirawan",
+                "styleUrl": "#icon-1624-0F9D58-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#0f9d58",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#1849ae",
+                "marker-size": "large",
+                "marker-symbol": "hospital"
+            },
+            "bbox": [
+                110.489086,
+                -7.349658,
+                110.489086,
+                -7.349658
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.49537,
+                    -7.330803,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "RSIA Hermina Mutiara Bunda Salatiga",
+                "styleUrl": "#icon-1624-0F9D58-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#0f9d58",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#1849ae",
+                "marker-size": "large",
+                "marker-symbol": "hospital"
+            },
+            "bbox": [
+                110.49537,
+                -7.330803,
+                110.49537,
+                -7.330803
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.509798,
+                    -7.34329,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Luwes Swalayan Salatiga",
+                "styleUrl": "#icon-1684-9C27B0-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#9c27b0",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "rgba(184, 1, 212, 1)",
+                "marker-size": "large",
+                "marker-symbol": "shop"
+            },
+            "bbox": [
+                110.509798,
+                -7.34329,
+                110.509798,
+                -7.34329
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.505679,
+                    -7.325009,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "MALL RAMAYANA SALATIGA",
+                "styleUrl": "#icon-1684-9C27B0-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#9c27b0",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#b801d4",
+                "marker-size": "large",
+                "marker-symbol": "shop"
+            },
+            "bbox": [
+                110.505679,
+                -7.325009,
+                110.505679,
+                -7.325009
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.50443,
+                    -7.32813,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Toko Ada Baru Swalayan",
+                "styleUrl": "#icon-1684-9C27B0-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#9c27b0",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#b801d4",
+                "marker-size": "large",
+                "marker-symbol": "shop"
+            },
+            "bbox": [
+                110.50443,
+                -7.32813,
+                110.50443,
+                -7.32813
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.506214,
+                    -7.335352,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "SUPERINDO Sudirman",
+                "styleUrl": "#icon-1684-9C27B0-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#9c27b0",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "#b801d4",
+                "marker-size": "large",
+                "marker-symbol": "shop"
+            },
+            "bbox": [
+                110.506214,
+                -7.335352,
+                110.506214,
+                -7.335352
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.507257,
+                    -7.345343,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kayu Arum Resort",
+                "styleUrl": "#icon-1602-7CB342-nodesc",
+                "label-scale": 0,
+                "icon-opacity": 1,
+                "icon-color": "#7cb342",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "marker-color": "rgba(143, 0, 0, 1)",
+                "marker-size": "large",
+                "marker-symbol": "home"
+            },
+            "bbox": [
+                110.507257,
+                -7.345343,
+                110.507257,
+                -7.345343
+            ]
+        }
+    ]
+}
